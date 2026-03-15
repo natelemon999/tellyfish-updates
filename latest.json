@@ -1,27 +1,27 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "notes": "See the assets below to download and install.",
-  "pub_date": "2026-03-15T08:27:59.585Z",
+  "pub_date": "2026-03-15T10:48:39.004Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUakRZYmR4cFNNbi9RN0IyUnpjVUhUREpuNnltMHdJQ2tOR29tT3B6MW5aak5jUlNsdStoRUk5cDd5Z0NZQnRBNFhYbjVVbjg5M1JyNGdhK2I4VmdnRTNNSmxPQzJhQlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTYyODUzCWZpbGU6VGVsbHlmaXNoLmFwcC50YXIuZ3oKN001TUtiSG0wY3dFc3QvL1BkMk1HT3BaUDJOVDZxeGNuRjNjZnB1cDJTd2xYOUNwYzF5UXhOMDMvS1RyK0c5WDhGbk9mMklsSSs3OU5tWmVMQVNkQ0E9PQo=",
-      "url": "https://github.com/natelemon999/tellyfish-updates/releases/download/v1.0.9/Tellyfish_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUakRZYmR4cFNNbjVRSlZwMzMwa3FmWUxvWTZLems3Z1lnUmFlbEhPUmUrV3JEZVRpeHNCWjZTSHY1dmpUTDl5VFloaW0zYUJVUzJidzJ6MzZZZWdLdU5IektiZ0dYblEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTcwODUzCWZpbGU6VGVsbHlmaXNoLmFwcC50YXIuZ3oKV3JyTGJkbGc2d2xqbGg2RkNtcUZWR1J1RGdFY0FWM1FDQ3JaQzVvY3hIN0M2QytMV1cwQit6eWJBeG1TczVrM29Mc1A3QitSMVd6OXR3TXBYamh6REE9PQo=",
+      "url": "https://github.com/natelemon999/tellyfish-updates/releases/download/v1.1.0/Tellyfish_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUakRZYmR4cFNNbi9RN0IyUnpjVUhUREpuNnltMHdJQ2tOR29tT3B6MW5aak5jUlNsdStoRUk5cDd5Z0NZQnRBNFhYbjVVbjg5M1JyNGdhK2I4VmdnRTNNSmxPQzJhQlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTYyODUzCWZpbGU6VGVsbHlmaXNoLmFwcC50YXIuZ3oKN001TUtiSG0wY3dFc3QvL1BkMk1HT3BaUDJOVDZxeGNuRjNjZnB1cDJTd2xYOUNwYzF5UXhOMDMvS1RyK0c5WDhGbk9mMklsSSs3OU5tWmVMQVNkQ0E9PQo=",
-      "url": "https://github.com/natelemon999/tellyfish-updates/releases/download/v1.0.9/Tellyfish_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUakRZYmR4cFNNbjVRSlZwMzMwa3FmWUxvWTZLems3Z1lnUmFlbEhPUmUrV3JEZVRpeHNCWjZTSHY1dmpUTDl5VFloaW0zYUJVUzJidzJ6MzZZZWdLdU5IektiZ0dYblEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTcwODUzCWZpbGU6VGVsbHlmaXNoLmFwcC50YXIuZ3oKV3JyTGJkbGc2d2xqbGg2RkNtcUZWR1J1RGdFY0FWM1FDQ3JaQzVvY3hIN0M2QytMV1cwQit6eWJBeG1TczVrM29Mc1A3QitSMVd6OXR3TXBYamh6REE9PQo=",
+      "url": "https://github.com/natelemon999/tellyfish-updates/releases/download/v1.1.0/Tellyfish_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUakRZYmR4cFNNbndibUJxaTl4NXorc0djNG1VNHBvREtQV2FOT3R5QTd4OVBlNUtqdU9GaWxZTDFhVlk2SWpzRUtIRkNjemRoM1BKK2hXcHFBVnpJbjdUVGZpRGN0bFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTYzMjczCWZpbGU6VGVsbHlmaXNoXzEuMC45X3g2NC1zZXR1cC5leGUKSTlqYlNWSS9IdHdTNWZQWHlzSGxsTXg4VjB3dXhhd1lzaGErcmxCNC8yYk1IeVFhZTJZTXZKbWxReHpWbnRncHlVYmxwVWlkMDMrMXJkanBvclF2QVE9PQo=",
-      "url": "https://github.com/natelemon999/tellyfish-updates/releases/download/v1.0.9/Tellyfish_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUakRZYmR4cFNNbjBBZzRCejlxYWJTMWNuQWZIM1ZXeWlWbDdUME5qSEpWVVRMcXFEQ3l2UnlsR1FrZlZXcGNicGxoWHNSRUw5MHhISjNWcmZCS3N0RVBBN0R3MDVoYlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTcxNzExCWZpbGU6VGVsbHlmaXNoXzEuMS4wX3g2NC1zZXR1cC5leGUKNS9pMFV6SG93WThGL2x2Yks0ajRKMHlVOGorczAwMDF2ZDlMZmNtaWMzK2NtcDJYUXAyOVYzMk9QUzNCcGg0cmtUOVpPWjUrRWxpajB3Rk9jUHNUQUE9PQo=",
+      "url": "https://github.com/natelemon999/tellyfish-updates/releases/download/v1.1.0/Tellyfish_1.1.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUakRZYmR4cFNNbndibUJxaTl4NXorc0djNG1VNHBvREtQV2FOT3R5QTd4OVBlNUtqdU9GaWxZTDFhVlk2SWpzRUtIRkNjemRoM1BKK2hXcHFBVnpJbjdUVGZpRGN0bFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTYzMjczCWZpbGU6VGVsbHlmaXNoXzEuMC45X3g2NC1zZXR1cC5leGUKSTlqYlNWSS9IdHdTNWZQWHlzSGxsTXg4VjB3dXhhd1lzaGErcmxCNC8yYk1IeVFhZTJZTXZKbWxReHpWbnRncHlVYmxwVWlkMDMrMXJkanBvclF2QVE9PQo=",
-      "url": "https://github.com/natelemon999/tellyfish-updates/releases/download/v1.0.9/Tellyfish_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUakRZYmR4cFNNbjBBZzRCejlxYWJTMWNuQWZIM1ZXeWlWbDdUME5qSEpWVVRMcXFEQ3l2UnlsR1FrZlZXcGNicGxoWHNSRUw5MHhISjNWcmZCS3N0RVBBN0R3MDVoYlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTcxNzExCWZpbGU6VGVsbHlmaXNoXzEuMS4wX3g2NC1zZXR1cC5leGUKNS9pMFV6SG93WThGL2x2Yks0ajRKMHlVOGorczAwMDF2ZDlMZmNtaWMzK2NtcDJYUXAyOVYzMk9QUzNCcGg0cmtUOVpPWjUrRWxpajB3Rk9jUHNUQUE9PQo=",
+      "url": "https://github.com/natelemon999/tellyfish-updates/releases/download/v1.1.0/Tellyfish_1.1.0_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUakRZYmR4cFNNbjQwclh6WmJJV2xBWk9lRTJjcGwxZk9JenVmV2tvUTVwMStZOVc0TWNRZ244SEs1S3Bpb2hYRTB5TkovZjV2ZHkya0svMlg1eU1jVzhPVGtpV3pMU3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTYzMjczCWZpbGU6VGVsbHlmaXNoXzEuMC45X3g2NF9lbi1VUy5tc2kKRXVZSHVobGQ0ekF3YzRqdE4wZGdRL3NFQ3cvZDM3emJFaWNpUXlodm9CdWRtYXBPSEF3aVhkSThnKy8ybE5nWmlyS1JaaWQzZU54MGZaTlprTHQ0RHc9PQo=",
-      "url": "https://github.com/natelemon999/tellyfish-updates/releases/download/v1.0.9/Tellyfish_1.0.9_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUakRZYmR4cFNNbjdJa1U5Q0g2ZnhHc3VHc0RxUk5HN210TGMvZjErekEyZ1A5UVE5K1Q4clJid1lXdmtqMnAyTjFpUGJLQ1o4QU9zMFlsSDZobi9xaDUxWEJhMytCaHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTcxNzExCWZpbGU6VGVsbHlmaXNoXzEuMS4wX3g2NF9lbi1VUy5tc2kKaUZSQW5lOGVjOXNpQ0IwMlo4Z2w1S2NxZkRaZURRbDhCclcrZVVBdE4wZzZ4Qk44N3BMYUp2bDBma3FJbmszQ29EUzVkZ3k0RC81RTB2T0QzYWF0Qmc9PQo=",
+      "url": "https://github.com/natelemon999/tellyfish-updates/releases/download/v1.1.0/Tellyfish_1.1.0_x64_en-US.msi"
     }
   }
 }
